@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PostApp</string>
+
+    <string name="posts_list_label">Посты</string>
+
+    <string name="post_title_label">Заголовок</string>
+    <string name="post_desc_label">Содержание</string>
+    <string name="post_desc">Содержание поста</string>
+
+
+    <string name="no_selection_label">Пост не выбран</string>
+    <string name="edit_button_label">Редактировать</string>
+    <string name="save_button_label">Сохранить</string>
+</resources>
